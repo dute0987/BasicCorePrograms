@@ -6,9 +6,9 @@ namespace coinFlip
         static void Main(string[]args)
         {
 	     //Console.WriteLine("Welcome To Basic Core Program");	
-               coinFlip.FlipTheCoin();
+             //coinFlip.FlipTheCoin();
              //SwitchDemo.DisplayMonth();
-             //findEvenOdd.EvenOdd();
+               findEvenOdd.EvenOdd();
         }
     }
 }
