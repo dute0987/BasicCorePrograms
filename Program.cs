@@ -5,10 +5,10 @@ namespace BasicCorePrograming
     {
         static void Main(string[]args)
         {
-              VowelAndConstsnt.CheckVowelAndConstant();
+            //VowelAndConstsnt.CheckVowelAndConstant();
             //PrimeNumberProgram.FindPrimeNumber();
             //SwapTheNumber.TwoNumberSwap();
-            //FindingLargest.FindTheLargeNumber();
+              FindingLargest.FindTheLargeNumber();
             //QuotientRemindar.FindQuotientAndRemindar();
         }
     }
