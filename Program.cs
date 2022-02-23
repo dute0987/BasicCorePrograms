@@ -7,9 +7,9 @@ namespace BasicCorePrograming
         {
             //VowelAndConstsnt.CheckVowelAndConstant();
             //PrimeNumberProgram.FindPrimeNumber();
-            //SwapTheNumber.TwoNumberSwap();
+              SwapTheNumber.TwoNumberSwap();
             //FindingLargest.FindTheLargeNumber();
-            QuotientRemindar.FindQuotientAndRemindar();
+            //QuotientRemindar.FindQuotientAndRemindar();
         }
     }
 }
